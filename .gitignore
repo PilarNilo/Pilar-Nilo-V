@@ -1,0 +1,6 @@
+#ignorar la carpeta text
+videos/
+
+#ignorar los archivos txt exceptuando 171.txt
+text/*.txt
+!text/171.txt
