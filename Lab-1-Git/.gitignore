@@ -1,6 +1,0 @@
-#ignorar la carpeta text
-videos/
-
-#ignorar los archivos txt exceptuando 171.txt
-texts/*.txt
-!texts/171.txt
